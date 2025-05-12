@@ -160,16 +160,25 @@ Zoom ERP Chatbot is a Node.js application that integrates Zoom Team Chat with Or
              ## Oracle App Client Credentials
                 - **Define Trusted application in IDCS**:
 
-                    - Define trusted application in IDCS with OAuth configuration as JWT assertion and Client Credentials.
-                    ![Step1 - Trusted Application](images/Trustedapp.png)
+                    - Define trusted application in IDCS with OAuth configuration as JWT assertion and Client Credentials. 
+                    
+                    ![Step1 - Trusted Application](https://github.com/user-attachments/assets/6f3396c3-bc66-492e-a748-f8524e327a3c)
+
+
                   **Note**: In this screen only u will be get all below fields
                      - OracleAPP_ID=YOUR_ORACLE_APP_ID
                      - OracleAppClienttID=YOUR_ORACLE_APP_CLIENT_ID
                      - OracleAppClienttSecrect=YOUR_ORACLE_APP_CLIENT_SECRET
                      - OracleScope=YOUR_ORACLE_SCOPE
-                      ![Step2 - Trusted Application ](images/Trustedapp1.png)
+                     
+                      ![Step2 - Trusted Application](https://github.com/user-attachments/assets/9e208b32-a587-4620-8fb7-d9992be775cd)
+
                - **Add Certificate to Trusted partner** 
-                  ![Step3 - Add Certificate to Trusted partner](images/Trustedapp2.png)
+               
+                  ![<img width="1719" alt="Step3 - Add Certificate to Trusted partner" src="https://github.com/user-attachments/assets/11fad0bc-769f-461d-ba5d-1988fbdca59e" />](images/Trustedapp2.png)
+                  
+                  
+
                     Implort by uploading IntegrationUser.cer generated above  to the trusted partner certificate 
                     # Post successful configuration you will get below response
                         ```plaintext
@@ -270,8 +279,9 @@ Endpoint for authorizing the bot in Zoom.
 
 
 ## sample Output
-        [Requisition](images/Output1.png)
-        [Purchase Order](images/Output4.png)
+
+        <img width="776" alt="Requisition" src="https://github.com/user-attachments/assets/9c135e38-394a-4e15-9497-2f2483d25621" /> 
+       <img width="831" alt="Purchase Order" src="https://github.com/user-attachments/assets/3438eeef-e092-4aea-9cf6-188d38300232" />
 
 ##  Zoom's Incoming Webhook Chatbot
         **How to add and configure Incoming Webhooks in Zoom**:
