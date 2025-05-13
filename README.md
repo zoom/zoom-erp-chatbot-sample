@@ -67,7 +67,8 @@ OracleAppClienttSecrect=YOUR_ORACLE_APP_CLIENT_SECRET
 OracleScope=YOUR_ORACLE_SCOPE
 oracleIDCS_Url=YOUR_ORACLE_IDCS_URL
 ```
-
+ > :warning: **Do not store credentials in plain text on production environments**
+ 
 4. Create a private_key.pem file in the root directory with your Oracle private key:
 
 ### Authentication for Oracle Application Using Chatbot
