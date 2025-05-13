@@ -250,7 +250,8 @@ Zoom-erp-chatbot/
 ├── generateChatBody.js      # Chat message body generation
 ├── zoomOAuth.js             # Zoom OAuth functionality
 ├── private_key.pem          # Oracle private key (not committed)
-├── .env                     # Environment variables (not committed)
+├── .env                     # Environment variables (not committed) 
+├── env_template             # Environment variables Template 
 └── package.json             # Project dependencies
 ```
 
