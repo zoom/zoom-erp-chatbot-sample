@@ -341,3 +341,9 @@ Endpoint for triggering Ops alerts to be sent to Zoom chats.
 ![Zoom Incoming webhook app alert](images/Output2.png)
 
 For detailed instructions on creating and configuring Zoom Chatbots, see the [Zoom's Incoming Webhook Chatbot](https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0067640).
+
+### Youtube Recording for Zoom's Developer Summit 2025  
+
+https://youtu.be/50lrWtJchlc?si=RauRC4yDfkiv3jVi
+
+
